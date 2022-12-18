@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -23,7 +23,7 @@ name                     : "Yongmin Kim"
 description              : "Personal Blog for Recorf What I learned"
 url                      : "https://didtj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "didtj/didtj.github.io"
+repository               : "didtj/comments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:kyoungm0709@gmail.com"
+    - label: "Github"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://github.com/didtj"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/didtj"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -290,3 +290,5 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
