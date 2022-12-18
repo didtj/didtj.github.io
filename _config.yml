@@ -20,7 +20,7 @@ title                    : "Alyosha's Playground"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yongmin Kim"
-description              : "Personal Blog for Recorf What I learned"
+description              : "Personal Blog for Record What I learned"
 url                      : "https://didtj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "didtj/comments"
