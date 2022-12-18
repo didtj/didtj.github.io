@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am currently learning about industrial engineering"
   location         : "South Korea"
-  email            : "kyoungm0709@gmail.com"
+  # email            : "kyoungm0709@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
